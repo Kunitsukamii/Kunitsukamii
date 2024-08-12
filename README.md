@@ -1,6 +1,9 @@
 <h2 align="left">Olá 👋! Eu sou o Eduardo </h2>
+<h2 align="left">Sobre Mim</h2>
 
-
+<p align="left">•Web Developer</p>
+<p align="left">•Email: eduardo.edu0614@gmail.com</p>
+<p align="left">•Estudando atualmente: Typescript</p>
 <h2 align="left">Status</h2>
 
 ###
@@ -11,6 +14,7 @@
 </div>
 
 ###
+<h2 align="left">Techs </h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -42,10 +46,6 @@
 </div>
 
 ###
-
-<div align="center">
-  <img height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtQHeND6OHxG_w21MjBwiSeN92c96AW6TjAA&s"  />
-</div>
 
 ###
 
