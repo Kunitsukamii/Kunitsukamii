@@ -3,7 +3,7 @@
 
 <p align="left">• Web Developer</p>
 <p align="left">• Email: eduardo.edu0614@gmail.com</p>
-<p align="left">• Estudando atualmente: Typescript</p>
+<p align="left">• Typescript</p>
 
 
 <h2 align="left">Status</h2>
