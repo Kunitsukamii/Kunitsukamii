@@ -1,9 +1,11 @@
 <h2 align="left">Olá 👋! Eu sou o Eduardo </h2>
 <h2 align="left">Sobre Mim</h2>
 
-<p align="left">•Web Developer</p>
-<p align="left">•Email: eduardo.edu0614@gmail.com</p>
-<p align="left">•Estudando atualmente: Typescript</p>
+<p align="left">• Web Developer</p>
+<p align="left">• Email: eduardo.edu0614@gmail.com</p>
+<p align="left">• Estudando atualmente: Typescript</p>
+
+
 <h2 align="left">Status</h2>
 
 ###
