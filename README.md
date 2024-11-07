@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Eu sou o Eduardo </h2>
+<h2 align="left">👩‍💻Eduardo </h2>
 <h2 align="left">Sobre Mim</h2>
 
 <p align="left">• Web Developer</p>
