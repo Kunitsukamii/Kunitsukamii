@@ -1,5 +1,5 @@
 <h2 align="left">👩‍💻Eduardo </h2>
-<h2 align="left">Sobre Mim</h2>
+<h2 align="left">About Me</h2>
 
 <p align="left">• Web Developer</p>
 <p align="left">• Email: eduardo.edu0614@gmail.com</p>
