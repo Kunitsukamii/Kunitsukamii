@@ -10,7 +10,6 @@
 </picture>
 
 <!-- GitHub may block remote images embedded inside SVG. This avatar is a reliable HTML fallback. -->
-<a href="https://github.com/scriptskk"><img src="https://avatars.githubusercontent.com/u/165056317?v=4" width="96" height="96" alt="My GitHub profile photo" /></a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/scriptskk/scriptskk/output/github-contribution-grid-snake-dark.svg">
