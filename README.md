@@ -2,8 +2,6 @@
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=650&lines=Hi+%F0%9F%91%8B+I'm+Eduardo;Web+Developer;Linux+%26+Open+Source;Building+EVA+%26+NEXUS" alt="Typing SVG" />
 
-<p><img src="https://img.shields.io/badge/Based%20in-Brazil-009B3A?style=for-the-badge" alt="Brazil" /> <img src="https://komarev.com/ghpvc/?username=scriptskk&style=for-the-badge&color=0e75b6" alt="Profile views" /></p>
-
 <!-- PROFILE CARD: SVG references the CURRENT GitHub profile photo by account ID. -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-dark.svg">
@@ -25,21 +23,9 @@
 </div>
 
 <details>
-<summary><b>About me · Technologies · Projects</b></summary>
-
-### About me
-- 💻 Web developer passionate about interactive interfaces.
-- 🤖 Building **EVA**, my personal voice assistant.
-- 🖥️ **NEXUS** — dedicated Arch Linux server for EVA.
-- 🐧 Open-source, Linux and automation enthusiast.
 
 ### Tech stack
 <div align="center"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,linux,arch,bash,git,github,vscode&perline=6" alt="Tech stack" /></div>
-
-### Projects
-- **EVA** — Personal voice assistant and automation.
-- **NEXUS** — Linux infrastructure for EVA.
-- **SLOT36S** — Handheld interface customization.
 
 </details>
 
