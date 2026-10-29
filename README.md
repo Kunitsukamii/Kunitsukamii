@@ -1,4 +1,4 @@
-<!-- README para a conta scriptskk. Para aparecer na página inicial do perfil, renomeie o repositório para scriptskk. -->
+<!-- Perfil de Eduardo / scriptskk — inspirado na estrutura visual de Xensen008. -->
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=650&lines=Hi+%F0%9F%91%8B+I'm+Eduardo;Web+Developer;Linux+%26+Open+Source;Building+EVA+%26+NEXUS" alt="Typing SVG" />
 
@@ -15,9 +15,9 @@
 <a href="https://github.com/scriptskk"><img src="https://avatars.githubusercontent.com/u/165056317?v=4" width="96" height="96" alt="My GitHub profile photo" /></a>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/scriptskk/Kunitsukamii/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/scriptskk/Kunitsukamii/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/scriptskk/Kunitsukamii/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake animation" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/scriptskk/scriptskk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/scriptskk/scriptskk/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/scriptskk/scriptskk/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake animation" />
 </picture>
 
 <img src="https://streak-stats.demolab.com?user=scriptskk&theme=github-dark-blue&hide_border=true" alt="Contribution streak" />
