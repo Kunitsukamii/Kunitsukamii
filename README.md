@@ -1,6 +1,6 @@
 <!-- Perfil de Eduardo / scriptskk — inspirado na estrutura visual de Xensen008. -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=650&lines=Hi+%F0%9F%91%8B+I'm+Eduardo;Web+Developer;Linux+%26+Open+Source;Building+EVA+%26+NEXUS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=C0C0C0&center=true&vCenter=true&random=false&width=650&lines=Hi+%F0%9F%91%8B+I'm+Eduardo;Web+Developer;Linux+%26+Open+Source;Building+EVA+%26+NEXUS" alt="Typing SVG" />
 
 <!-- PROFILE CARD: SVG references the CURRENT GitHub profile photo by account ID. -->
 <picture>
