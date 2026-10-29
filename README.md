@@ -4,9 +4,9 @@
 
 <!-- PROFILE CARD: SVG references the CURRENT GitHub profile photo by account ID. -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-light.svg">
-  <img src="./assets/profile-dark.svg" width="100%" alt="Eduardo GitHub profile card" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-dark.svg?v=slate-20261029">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-light.svg?v=slate-20261029">
+  <img src="./assets/profile-dark.svg?v=slate-20261029" width="100%" alt="Eduardo GitHub profile card" />
 </picture>
 
 <!-- GitHub may block remote images embedded inside SVG. This avatar is a reliable HTML fallback. -->
