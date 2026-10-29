@@ -39,9 +39,9 @@ rows = [
 ]
 for dark in (True, False):
     bg, panel, fg, dim, label, value, rule = (
-        ("#0d1117", "#171c23", "#d6dae2", "#7b899e", "#ffad55", "#a9d7ff", "#303b48")
+        ("#0d1117", "#171c23", "#d6dae2", "#7b899e", "#bd987d", "#f1f1ef", "#303b48")
         if dark else
-        ("#f6f8fa", "#ffffff", "#313945", "#798393", "#b45f00", "#0969da", "#d0d7de")
+        ("#11151b", "#1d2229", "#e0e2e5", "#87909b", "#bd987d", "#f1f1ef", "#38414b")
     )
     items = []
     for i, (key, val) in enumerate(rows):
